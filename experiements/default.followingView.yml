@@ -1,4 +1,4 @@
-flag: namespace1.videoChat
+flag: default.followingView
 type: experiment
 name: test
 value: true
