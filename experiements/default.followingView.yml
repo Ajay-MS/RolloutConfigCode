@@ -1,4 +1,0 @@
-flag: default.followingView
-type: experiment
-name: test
-value: true
