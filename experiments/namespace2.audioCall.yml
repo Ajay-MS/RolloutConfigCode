@@ -1,0 +1,7 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5dea0fddd0bad95385badb38
+type: experiment
+name: audio call
+description: Setting audio Call
+flag: namespace1.audioCall
+value: false

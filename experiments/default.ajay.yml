@@ -1,0 +1,7 @@
+# This file was edited by rollout.io
+# URL: https://app.rollout.io/ex/5dea0f25d0bad95385badb31
+type: experiment
+name: ajay
+description: This is second feature flag
+flag: default.ajay
+value: false
